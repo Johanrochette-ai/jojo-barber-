@@ -1,0 +1,10 @@
+{
+  "name": "Jojo Barber",
+  "short_name": "Jojo Barber",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0d0f",
+  "theme_color": "#111214",
+  "description": "Gestion des rendez-vous et du chiffre d'affaires de Jojo Barber.",
+  "icons": []
+}
